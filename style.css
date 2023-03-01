@@ -1,0 +1,21 @@
+.btn-primary{
+    background-color: #FE7534;
+    border-color: #FE7534;
+}
+
+.btn-primary:hover{
+    background-color: #e66c33;
+    border-color: #e66c33;
+}
+
+.hero-text{
+    color: #FE7534;
+}
+
+a{
+    color: #183B2C;
+}
+
+a:hover{
+    color: #244d3b;
+}
