@@ -1,0 +1,33 @@
+:root{
+    --normal-font: 400;
+    --medium-font: 500;
+    --bold-font: 700;
+    --primary-color: #FE7534;
+    --primary-hover: #e66c33;
+    --link-color : #183B2C;
+    --neutral-color: #232429;
+    --line-height: 1.7rem;
+    --transition: 0.4s ease-in;
+}
+
+p {
+    color: #555761;
+}
+
+.navbar{
+    box-shadow: 2px 3px 2px #f1f1f1;
+}
+
+.img1{
+    width: 85%;
+}
+
+@media screen and (max-width: 600px){
+    .img1{
+        width: 100%;
+    }
+
+    .faq{
+        margin-top: 2rem;
+    }
+}
